@@ -1,0 +1,10 @@
+FileVersion:2
+Type:Static
+Guid:A5495905-4839-5B63-8538-6FA6B54DB3B4
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Environment/SM_Tamagaki_Base.SM_Tamagaki_Base
+/Game/Environment/SM_Tamagaki_Edge.SM_Tamagaki_Edge
+/Game/Environment/SM_Tamagaki_End.SM_Tamagaki_End
+/Game/Environment/SM_Tamagaki_Pillar.SM_Tamagaki_Pillar
+/Game/Environment/SM_Tamagaki_Slope.SM_Tamagaki_Slope
